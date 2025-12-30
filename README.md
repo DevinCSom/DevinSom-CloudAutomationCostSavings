@@ -32,6 +32,7 @@ This automation identifies those unused resources automatically and creates a da
 - Amazon CloudWatch
 - AWS IAM Roles & Permissions
 - *(Optional)* Amazon SNS for alerts
+
 -View the full automation code here: [idle_resource_cleaner.py](./idle_resource_cleaner.py)
 
 ---
