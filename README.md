@@ -69,6 +69,6 @@ Include screenshots of:
 ## 👤 Author
 **Devin Som**  
 Information Technology Student | Cloud Computing Enthusiast  
-🌐 [Portfolio Website](https://devinsom.github.io/DevinSom-portfolio/)  
+🌐 [Portfolio Website]https://devincsom.github.io/DevinSom-portfolio/  
 💼 [LinkedIn](https://www.linkedin.com/in/devinsom)
 
