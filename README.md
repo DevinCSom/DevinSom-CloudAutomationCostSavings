@@ -70,5 +70,5 @@ Include screenshots of:
 **Devin Som**  
 Information Technology Student | Cloud Computing Enthusiast  
 🌐 [Portfolio Website](https://devincsom.github.io/DevinSom-portfolio/)  
-💼 [LinkedIn](https://www.linkedin.com/in/devinsom)
+💼 [LinkedIn](https://www.linkedin.com/in/devin-som-53064621a/)
 
